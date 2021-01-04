@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.header {
+    background: #0B2538;
+    color: #ffffff;
+    display: block;
+    height: 100%;
+    left: 0;
+    width: 275px;
+    overflow-y: auto;
+    z-index: 1002;
+    position: fixed;
+    top: 0;
+}
+
